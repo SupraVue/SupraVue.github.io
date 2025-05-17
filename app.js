@@ -52,10 +52,7 @@ createApp({
     
     // Social media links
     const socialLinks = ref([
-      { platform: 'GitHub', url: '#', icon: 'fab fa-github' },
-      { platform: 'LinkedIn', url: '#', icon: 'fab fa-linkedin' },
-      { platform: 'Twitter', url: '#', icon: 'fab fa-twitter' },
-      { platform: 'Medium', url: '#', icon: 'fab fa-medium' }
+      { platform: 'GitHub', url: 'https://github.com/wryuin', icon: 'fab fa-github' }
     ]);
     
     // Form data for contact form
